@@ -1,0 +1,27 @@
+.container{
+   
+    height: 700px;
+    width: 400px;
+    background-color: aliceblue;
+    justify-content: center;
+    display: flex;
+    margin-left: 250px;
+    border-radius: 55px;
+    
+}
+.screen{
+
+    display: flex;
+    height: 170px;
+    width: 330px;
+    margin-top: 30px;
+    border-radius: 10%;
+    background-color: rgb(251, 249, 247);
+    flex-direction: column;
+    box-shadow: inset 2px 2px 2px 2px rgb(102, 99, 99),inset 1px 1px 1px 1px white;
+   
+}
+p,h1{
+    display: flex;
+    justify-content: right;
+}
